@@ -42,3 +42,6 @@ function shouldDisplayPopup() {
 
     return false;
 }
+window.onload(()=>{
+    alert('hgi');
+})
